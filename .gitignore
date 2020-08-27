@@ -1,0 +1,6 @@
+/spring-rest-ecommerce.iml
+/.idea/
+*/target/
+/uploads/**
+*.class
+*.iml
